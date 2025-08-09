@@ -46,7 +46,7 @@ Tracks how long you’ve been wasting your life playing this game.
 github
 
 # Screenshots (Add at least 3)
-<img width="1881" height="895" alt="Screenshot 2025-08-09 165636" src="https://github.com/user-attachments/assets/ad5d37ad-b45f-4117-9e66-d4663e319cca
+<img width="1881" height="895" alt="Screenshot 2025-08-09 165636" src="https://github.com/user-attachments/assets/ad5d37ad-b45f-4117-9e66-d4663e319cca"/>
 (type the nmae for start the quize)
 
 <img width="1917" height="915" alt="Screenshot 2025-08-09 165741" src="https://github.com/user-attachments/assets/95fe596a-edee-41b2-ad2a-b1f38a7a3356" />
