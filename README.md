@@ -7,11 +7,11 @@
 
 ## Basic Details
 
-### Team Name: trashy
+### Team Name: TRASHY
 
 ### Team Members
-- Team Lead: Sneha .p - GECK
-- Member 2: Abinaya km - GECK
+- Team Lead: Sneha .p - GEC Kozhikode
+- Member 2: Abinaya km - GECK Kozhikode
 
 
 ### Project Description
