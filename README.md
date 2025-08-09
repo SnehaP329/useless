@@ -11,7 +11,7 @@
 
 ### Team Members
 - Team Lead: Sneha.P - GEC Kozhikode
-- Member 2: Abinaya.K.M - GECK Kozhikode
+- Member 2: Abinaya.K.M - GEC Kozhikode
 
 
 ### Project Description
