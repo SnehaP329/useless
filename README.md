@@ -62,7 +62,8 @@ Start Game →Enter Name →Click Start →Load First Question →Submit Answer 
 
 ## Team Contributions
 - Sneha.P : Creative ideas and elaboration
-- Abinaya KM : Coding enhancement 
+- Abinaya KM : Coding enhancement
+- 
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
